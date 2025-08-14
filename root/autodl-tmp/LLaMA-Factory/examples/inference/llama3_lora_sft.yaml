@@ -1,0 +1,4 @@
+model_name_or_path: /root/autodl-tmp/LLaMA-Factory/output/qwen_lora_sft
+template: qwen
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true
