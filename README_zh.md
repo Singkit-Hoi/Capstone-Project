@@ -39,6 +39,8 @@ root/
 └── Qwen2.5-0.5B-Instruct/
 ```
 
+**教材下载** LLaMA-Factory/2025_05_22_med_data_zh_paragraph 中的教材不完整，请通过 https://github.com/jind11/MedQA?tab=readme-ov-file google drive 下载 (data_clean/data_clean/zh_paragrah)
+
 ---
 
 ## 3）先决条件（Prerequisites）
@@ -219,7 +221,8 @@ python evaluation/"API with Rag Evaluation"/Rag_model_evaluation.py
 
 - 模型：**Qwen2.5-0.5B-Instruct**（Hugging Face）；  
 - 框架：**LLaMA-Factory**（作者：*hiyouga*）。
-
+- 数据集 **What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams**
+  (https://github.com/jind11/MedQA?tab=readme-ov-file)
 ---
 
 **祝你在 Fine-tuning 与 RAG 的中文医疗问答系统搭建之旅一路顺利！**
