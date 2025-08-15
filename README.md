@@ -22,6 +22,7 @@ This repository provides an end-to-end workflow to:
 root/
 ├── autodl-tmp/
 │   └── LLaMA-Factory/
+│       ├──2025_05_22_med_data_zh_paragraph
 │       ├── data/
 │       │   ├── process_data.py
 │       │   ├── train.jsonl
@@ -39,6 +40,8 @@ root/
 │       └── Gradio_demo_new.py
 └── Qwen2.5-0.5B-Instruct/
 ```
+
+**Textbooks Download** The textbooks in 'LLaMA-Factory/2025_05_22_med_data_zh_paragraph' are not complete,should be downloaded by https://github.com/jind11/MedQA?tab=readme-ov-file google drive (data_clean/data_clean/zh_paragrah)
 
 ---
 
