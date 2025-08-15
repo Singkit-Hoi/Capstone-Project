@@ -40,6 +40,8 @@ root/
 └── Qwen2.5-0.5B-Instruct/
 ```
 
+**Textbooks Download** The textbooks in 'LLaMA-Factory/2025_05_22_med_data_zh_paragraph' are not complete,should be downloaded by https://github.com/jind11/MedQA?tab=readme-ov-file google drive (data_clean/data_clean/zh_paragrah)
+
 ---
 
 ## 3) Prerequisites
@@ -219,6 +221,8 @@ python evaluation/"API with Rag Evaluation"/Rag_model_evaluation.py
 
 - Model: **Qwen2.5-0.5B-Instruct** (Hugging Face).  
 - Framework: **LLaMA-Factory** by *hiyouga*.  
+- Dataset: **What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams**          
+  https://github.com/jind11/MedQA?tab=readme-ov-file
 
 ---
 
