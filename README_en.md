@@ -222,7 +222,7 @@ python evaluation/"API with Rag Evaluation"/Rag_model_evaluation.py
 - Model: **Qwen2.5-0.5B-Instruct** (Hugging Face).  
 - Framework: **LLaMA-Factory** by *hiyouga*.  
 - Dataset: **What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams**          
-  https://github.com/jind11/MedQA?tab=readme-ov-file
+  (https://github.com/jind11/MedQA?tab=readme-ov-file)
 
 ---
 
